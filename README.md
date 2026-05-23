@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm a First Year B.Tech student in Software Engineering.
+Passionate about coding, AI, web development, and learning new technologies.
+Currently exploring programming, open-source, and building beginner-friendly projects.
 
-<!--
-**vedbhisekar7/vedbhisekar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Software Engineering
+💻 Learning Python, Web Development & AI
+🚀 Interested in creating useful and simple projects
+📚 Always learning and improving
+Tech Stack
 
-Here are some ideas to get you started:
+Python HTML CSS GitHub Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With Me
+GitHub: vedbhisekar7

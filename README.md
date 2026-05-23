@@ -11,5 +11,3 @@ Tech Stack
 
 Python HTML CSS GitHub Linux
 
-Connect With Me
-GitHub: vedbhisekar7
